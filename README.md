@@ -1,1 +1,3 @@
-# Seminarski_Masinsko_Ucenje
+Seminarski rad Masinsko ucenje
+
+Igor Banovic
